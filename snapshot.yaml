@@ -1,5 +1,5 @@
 name: coderpad-2019-06-25
-resolver: nightly-2019-06-12
+compiler: ghc-8.6.5
 
 packages:
 - Cabal-2.4.0.1
